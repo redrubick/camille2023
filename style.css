@@ -154,17 +154,17 @@ a{
     transition: all ease 0.3s;
 }
 @media(max-width:1250px) {
-    .blog-box-1{
+    .blog-box-2{
     width: 300px;
     }
 }
 @media(max-width:1100px){
-    .blog-box-1{
+    .blog-box-2{
         width: 70%;
     }
 }
 @media(max-width:550px){
-    .blog-box-1{
+    .blog-box-2{
         margin: 20px 10px;
         width: 100%;
     }
