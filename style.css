@@ -95,28 +95,7 @@ a{
     text-overflow: ellipsis;
     margin: 0px 0px;
 }
-@media(max-width:1250px) {
-    .blog-box-1{
-    width: 300px;
-    }
-}
-@media(max-width:1100px){
-    .blog-box-1{
-        width: 70%;
-    }
-}
-@media(max-width:550px){
-    .blog-box-1{
-        margin: 20px 10px;
-        width: 100%;
-    }
-    #blog{
-        padding: 20px;
-    }
-}
-.red{
-    font-size: 1px;
-}
+
 /*box 2 */
 .blog-box-2{
     width: 401px;
@@ -152,25 +131,6 @@ a{
 .text a:hover{
     color: rgb(253, 12, 4);
     transition: all ease 0.3s;
-}
-@media(max-width:1250px) {
-    .blog-box-2{
-    width: 300px;
-    }
-}
-@media(max-width:1100px){
-    .blog-box-2{
-        width: 70%;
-    }
-}
-@media(max-width:550px){
-    .blog-box-2{
-        margin: 20px 10px;
-        width: 100%;
-    }
-    #blog{
-        padding: 20px;
-    }
 }
 
 
